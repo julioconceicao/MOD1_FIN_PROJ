@@ -26,7 +26,7 @@ namespace PF_Módulo1.src
             posicaoJogador = _posicao;
             numeroJogador = _numero;
             
-            //Agilidade, Forte, Passe, Cobrança, Cabeceio, Chute, Nenhum  
+            //Agilidade, Força, Passe, Cobrança, Cabeceio, Chute, Nenhum  
             habilidade1Jogador = _hab1;
             habilidade2Jogador = _hab2;
             habilidade3Jogador = _hab3;
@@ -35,8 +35,6 @@ namespace PF_Módulo1.src
             alturaJogador = _altura;
             pesoJogador = _peso;
             cidadeJogador = _cidade;
-
-
         }
     }
 }

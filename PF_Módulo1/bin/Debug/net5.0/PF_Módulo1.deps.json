@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PF_Módulo1/1.0.0": {
+        "runtime": {
+          "PF_Módulo1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PF_Módulo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {}
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
+        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
         "projectName": "PF_Módulo1",
-        "projectPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
-        "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\obj\\",
+        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
+        "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
