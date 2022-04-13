@@ -1,0 +1,16 @@
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.exe
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.deps.json
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.runtimeconfig.json
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.runtimeconfig.dev.json
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.dll
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.pdb
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.AssemblyInfo.cs
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.dll
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\refint\PF_Módulo1.dll
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.pdb
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.genruntimeconfig.cache
+C:\Users\julio\Documents\MÓDULO1GEN\Nova pasta\MOD1_FIN_PROJ\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\ref\PF_Módulo1.dll
