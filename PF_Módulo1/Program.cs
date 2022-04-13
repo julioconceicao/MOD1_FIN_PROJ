@@ -6,13 +6,20 @@ namespace PF_Módulo1
     {
         static void Main(string[] args)
         {
+            string print;
+
             Console.WriteLine("GENtaça das Favelas");
             Console.WriteLine("Conheça nossos talentos ");
-        
-        
-            Console.WriteLine("Busca por quais atributos?")
-                Console.WriteLine("Digite 'Vel' para velocidade")
-        
+            
+
+            print = "Busca por quais atributos?";
+            print = "Agilidade: 1";
+            print = "Força: 2";
+            print = "Cabeceador: 3";
+            print = "Passe: 4";
+            print = "Velocidade: 5";
+
+
         }
     }
 }
