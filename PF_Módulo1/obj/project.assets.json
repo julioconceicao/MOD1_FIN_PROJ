@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\PF_Módulo1\\PF_Módulo1.csproj",
+      "projectUniqueName": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
       "projectName": "PF_Módulo1",
-      "projectPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\PF_Módulo1\\PF_Módulo1.csproj",
+      "projectPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\PF_Módulo1\\obj\\",
+      "outputPath": "C:\\Users\\julio\\Documents\\MÓDULO1GEN\\Nova pasta\\MOD1_FIN_PROJ\\MOD1_FIN_PROJ\\PF_Módulo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
