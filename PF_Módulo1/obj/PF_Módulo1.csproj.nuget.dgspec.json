@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {}
+    "C:\\Users\\julio_ku8taem\\Documents\\.PROJETOS\\dotnetgen\\Nova pasta\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {
+    "C:\\Users\\julio_ku8taem\\Documents\\.PROJETOS\\dotnetgen\\Nova pasta\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
+        "projectUniqueName": "C:\\Users\\julio_ku8taem\\Documents\\.PROJETOS\\dotnetgen\\Nova pasta\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
         "projectName": "PF_Módulo1",
-        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
-        "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\MOD1_FIN_PROJ\\PF_Módulo1\\obj\\",
+        "projectPath": "C:\\Users\\julio_ku8taem\\Documents\\.PROJETOS\\dotnetgen\\Nova pasta\\MOD1_FIN_PROJ\\PF_Módulo1\\PF_Módulo1.csproj",
+        "packagesPath": "C:\\Users\\julio_ku8taem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julio_ku8taem\\Documents\\.PROJETOS\\dotnetgen\\Nova pasta\\MOD1_FIN_PROJ\\PF_Módulo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\julio_ku8taem\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

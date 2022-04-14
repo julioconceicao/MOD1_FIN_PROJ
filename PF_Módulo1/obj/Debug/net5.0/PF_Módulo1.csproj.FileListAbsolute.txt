@@ -14,3 +14,19 @@ C:\Users\jvm18\Desktop\prograhmaisaoção\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\ne
 C:\Users\jvm18\Desktop\prograhmaisaoção\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.pdb
 C:\Users\jvm18\Desktop\prograhmaisaoção\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.genruntimeconfig.cache
 C:\Users\jvm18\Desktop\prograhmaisaoção\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\ref\PF_Módulo1.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.exe
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.deps.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.runtimeconfig.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\ref\PF_Módulo1.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\bin\Debug\net5.0\PF_Módulo1.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\ref\PF_Módulo1.dll
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.pdb
+C:\Users\julio_ku8taem\Documents\.PROJETOS\dotnetgen\Nova pasta\MOD1_FIN_PROJ\PF_Módulo1\obj\Debug\net5.0\PF_Módulo1.genruntimeconfig.cache
