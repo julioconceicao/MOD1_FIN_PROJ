@@ -22,9 +22,10 @@
 
   <div class="title">
   <h2>O programa</h2>
-  <p>O projeto consiste em uma aplicação do tipo Console, a qual filtra os jogadores de acordo com as habilidades procuradas.<p>
+  <p>🇧🇷 O projeto consiste em uma aplicação do tipo Console, a qual filtra os jogadores de acordo com as habilidades procuradas.</p>
+  <p>🇺🇸 The project consists of a Console-type application, which filters players according to the skills they are looking for.</p>
   </div>
-  ## 
+  
   <div class="players" align="left">
   <h3>Lista de jogadores/List of players</h3>
   </div>
