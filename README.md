@@ -54,4 +54,7 @@
   <h1>Participantes/Participants</h1><h4>A-Z</h4>
   <p>Fabrício Freitas, João Victor, Julio Conceição, Matheus Catel, Nickole Bueno, Thamyres Cavalcanti, Vinicius Santos</p>
 
+  
+  <h5>Readme by: Julio Conceição</h5>
+  <h5>contact us about the project: julioconceicao.gtr@gmail.com</h5>
 
