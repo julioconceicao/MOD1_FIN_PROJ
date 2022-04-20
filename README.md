@@ -15,15 +15,15 @@
   <h3>Objetivos/Objectives:</h3>
   
    
-<p>🇧🇷 O projeto filtra os jogadores de acordo com a habilidade requisitada pelo patrocinador/técnico/treinador. Para se determinar uma habilidade, é necessário esolher o seu respectivo número, como no exemplo abaixo:</p>
+<p>🇧🇷 O projeto filtra os jogadores de acordo com a habilidade requisitada pelo patrocinador/técnico/treinador. Para se determinar uma habilidade, é necessário esolher o seu respectivo número, como no exemplo abaixo:</p><br>
   
-<p>🇺🇸 The project filters players according to the skill required by the sponsor/coach/coach. To determine a skill, it is necessary to choose its respective number, as in the example below:</p> 
+<p>🇺🇸 The project filters players according to the skill required by the sponsor/coach/coach. To determine a skill, it is necessary to choose its respective number, as in the example below:</p><br>
 </div>
 
   <div class="title">
   <h2>O programa</h2>
-  <p>🇧🇷 O projeto consiste em uma aplicação do tipo Console, a qual filtra os jogadores de acordo com as habilidades procuradas.</p>
-  <p>🇺🇸 The project consists of a Console-type application, which filters players according to the skills they are looking for.</p>
+  <p>🇧🇷 O projeto consiste em uma aplicação do tipo Console, a qual filtra os jogadores de acordo com as habilidades procuradas.</p><br>
+  <p>🇺🇸 The project consists of a Console-type application, which filters players according to the skills they are looking for.</p><br>
   </div>
   
   <div class="players" align="left">
@@ -45,8 +45,9 @@
   
   <h1>Next Updates</h1>
   <p>
-  -Transfer the "Players List" to a database at Microsoft SQL Server.
-  -Make the program able to find the players using other data types, like height, weight, name, or position.
+  -Transfer the "Players List" to a database at Microsoft SQL Server.<br>
+  -Make the program able to find the players using other data types, like height, weight, name, or position.<br>
+  -Create an interface using Windows Form.<br>
   </p>  
   
 
