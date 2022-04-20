@@ -43,6 +43,11 @@
   </div>
   <img align="center" alt="running" src="https://cdn.discordapp.com/attachments/966117479455809540/966136724570927144/Hnet-image.gif">
   
+  <h1>Next Updates</h1>
+  <p>
+  -Transfer the "Players List" to a database at Microsoft SQL Server.
+  -Make the program able to find the players using other data types, like height, weight, name, or position.
+  </p>  
   
 
   <h1>Participantes/Participants</h1><h4>A-Z</h4>
